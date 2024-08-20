@@ -9,6 +9,9 @@ module.exports = {
         "gray-color": "#333333",
         "dark-gray": "#1f1f1f",
         "very-dark-gray": "#202020" 
+      },
+      fontFamily: {
+        "inter": [ "'Inter'", "sans-serif"]
       }
     },
   },
